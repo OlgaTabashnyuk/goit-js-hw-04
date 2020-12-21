@@ -1,2 +1,2 @@
-# goit-js-hw-01
-ДЗ по LS
+# goit-js-hw-04
+ДЗ по JS
